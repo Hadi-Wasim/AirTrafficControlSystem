@@ -161,8 +161,8 @@ Last Updated: May 28, 2025
 📧 Contact
 For questions or feedback, reach out to the project maintainers:
 
-Email: your-email@example.com
-GitHub: YourGitHubProfile
+Email: hadiwasim644@gmail.com
+GitHub: Hadi-Wasim
 
 
 Happy simulating! 🛫
