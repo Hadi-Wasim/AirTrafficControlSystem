@@ -101,7 +101,7 @@ Monitor terminal outputs for flight status, violations, and logs.
 Simulation Window
 ![My Image]("AirTrafficControlSystem\Saud_Ur_Rahman_23i-0540_Hadi_Wasim_23f-0681\Saud_Ur_Rahman_23i-0540_Hadi_Wasim_23f-0681\runway.png")
 Terminal Outputs
-![My Image]("AirTrafficControlSystem\Saud_Ur_Rahman_23i-0540_Hadi_Wasim_23f-0681\Saud_Ur_Rahman_23i-0540_Hadi_Wasim_23f-0681\Screenshot 2025-05-28 220800.png")
+![My Image]("AirTrafficControlSystem\Saud_Ur_Rahman_23i-0540_Hadi_Wasim_23f-0681\Saud_Ur_Rahman_23i-0540_Hadi_Wasim_23f-0681\Screenshot2025-05-28220800.png")
 
 
 🧑‍💻 Usage
